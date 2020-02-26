@@ -1,0 +1,1 @@
+Tetap semangat dalam menghadapi segala sesuati, pantang menyerah, kibarkan semangat belajar, dan rasa ingin tahu serta niat belajar yang tinggi
