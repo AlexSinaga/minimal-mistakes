@@ -1,0 +1,1 @@
+Pelajaran yang saya dapatkan : Saya dapat lebih memahami syntax github serta kegunaan dan karakteristik dari masing-masing syntax tersebut, hal tersebut membuat saya untuk lebih antusias lagi dalam mendalami materi pembelajaran tersebut.
