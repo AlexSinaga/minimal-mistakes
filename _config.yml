@@ -108,7 +108,7 @@ analytics:
 # Site Author
 author:
   name             : "Alex Sinaga"
-  avatar           : "\assets\image\alex.jpg"
+  avatar           : "assets\image\alex.jpg"
   bio              : "BIOMEDIC EXPERT"
   location         : "Cikoneng"
   email            : "asinaga278@gmail.com"
