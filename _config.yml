@@ -16,8 +16,8 @@ minimal_mistakes_skin    : "aqua" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Alex_Blog"
-title_separator          : "-"
+title                    : "LXDragon's"
+title_separator          : "PRO PLAYER"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Alex Sinaga"
 description              : "Make it easy, make it simple"
@@ -39,9 +39,9 @@ comments:
     # https://developers.facebook.com/docs/plugins/comments
     appid                :
     num_posts            : # 5 (default)
-    colorscheme          : "light" (default)
+    colorscheme          : # "light" (default), "dark"
   utterances:
-    theme                : "github-light" (default)
+    theme                : # "github-light" (default), "github-dark"
     issue_term           : # "pathname" (default)
 staticman:
   allowedFields          : # ['name', 'email', 'url', 'message']
@@ -49,7 +49,7 @@ staticman:
   commitMessage          : # "New comment by {fields.name}"
   filename               : # comment-{@timestamp}
   format                 : # "yml"
-  moderation             : true
+  moderation             : # true
   path                   : # "/_data/comments/{options.slug}" (default)
   requiredFields         : # ['name', 'email', 'message']
   transforms:
@@ -86,7 +86,7 @@ naver_site_verification  :
 twitter:
   username               :
 facebook:
-  username               : Alex Sinaga
+  username               :
   app_id                 :
   publisher              :
 og_image                 : # Open Graph/Twitter default site image
@@ -108,51 +108,45 @@ analytics:
 # Site Author
 author:
   name             : "Alex Sinaga"
-  avatar           : "D:\SEMESTER 2\Lain-lain\UTBK PART 2\Pas Photo 4 x 6.jpg"
-  bio              : "BIOMEDIC EXPERT"
+  avatar           : "Pas Photo 4 x 6.jpg"
+  bio              : "BIOMEDIC EXPERT."
   location         : "Cikoneng"
-  email            :
+  email            : "asinaga278@gmail.com"
   links:
-    - label: "Email"
+    - label: "Gmail"
       icon: "fas fa-fw fa-envelope-square"
-      url: asinaga278@gmail.com
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
+      url: mailto:asinaga278@gmail.com
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
+      url: "https://twitter.com/Alexsinaga1"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
+      # url: "fb"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/AlexSinaga"
+      # url: "https://github.com/AlexSinaga"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://www.instagram.com/alexsinaga_27/"
+      url: "https://instagram.com/alexsinagaa"
 
 # Site Footer
 footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url:
+      url: "https://twitter.com/Alexsinaga1"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      # url:
+      # url: "fb"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url:
+      url: "https://github.com/AlexSinaga"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
-      url: "https://github.com/AlexSinaga"
-    - label: "Bitbucket"
-      icon: "fab fa-fw fa-bitbucket"
-      # url:
+      # url: "https://gitlab.com/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://www.instagram.com/alexsinaga_27/"
+      url: "https://instagram.com/alexsinagaa"
 
 
 # Reading Files
