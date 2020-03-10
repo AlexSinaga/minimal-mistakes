@@ -1,1 +1,1 @@
-[link](https://alexsinaga.github.io/my_Blog/)
+[link](https://alexsinaga.github.io/Republika_ID/)
