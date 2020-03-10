@@ -1,1 +1,1 @@
-[link](https://github.com/AlexSinaga/my_Blog.git)
+[link](https://alexsinaga.github.io/my_Blog/)
